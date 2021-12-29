@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.789ef727.css",
+    "main.js": "/Portfolio/static/js/main.a9928db5.js",
+    "static/media/software.jpg": "/Portfolio/static/media/software.48e9c9c16a8d4bbf8de8.jpg",
+    "static/media/Expanding Card.PNG": "/Portfolio/static/media/Expanding Card.f5b8824e9f0e2e3efcb2.PNG",
+    "static/media/Home.jpg": "/Portfolio/static/media/Home.0a4893421f4eb80a395c.jpg",
+    "static/media/Rotating Menu.PNG": "/Portfolio/static/media/Rotating Menu.dcedb54018c55005f4a1.PNG",
+    "static/media/Hidden Search Widget.PNG": "/Portfolio/static/media/Hidden Search Widget.eafe7a7e25b99959b8ba.PNG",
+    "static/media/Drum Kit.PNG": "/Portfolio/static/media/Drum Kit.4d2624f10ab67589bc8b.PNG",
+    "static/media/webdev.jpg": "/Portfolio/static/media/webdev.0d839a5acbd31eddfd9b.jpg",
+    "static/media/Android.jpg": "/Portfolio/static/media/Android.10415744af63cfffdcf2.jpg",
+    "static/media/Music Kit.PNG": "/Portfolio/static/media/Music Kit.8140d688ba5f3c17d10a.PNG",
+    "static/media/Dice Game.PNG": "/Portfolio/static/media/Dice Game.8340c83626ff2aa8d957.PNG",
+    "index.html": "/Portfolio/index.html",
+    "main.789ef727.css.map": "/Portfolio/static/css/main.789ef727.css.map",
+    "main.a9928db5.js.map": "/Portfolio/static/js/main.a9928db5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.789ef727.css",
+    "static/js/main.a9928db5.js"
+  ]
+}
